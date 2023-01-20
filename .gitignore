@@ -12,6 +12,7 @@
 
 # Package Files #
 *.jar
+!Test_task.jar
 *.war
 *.nar
 *.ear
